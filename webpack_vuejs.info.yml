@@ -5,5 +5,5 @@ package: 'Javascript'
 #configure: webpack.config_page
 core: 8.x
 dependencies:
-  - webpack
-  - webpack_babel
+  - webpack:webpack
+  - webpack_babel:webpack_babel
